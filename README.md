@@ -4,7 +4,7 @@
 This is a **C# Console Application** developed for my 5th-semester project at the **Institute of Space Technology (IST)**. The system uses Machine Learning to classify images into two categories: **Authentic (Real)** or **AI-Generated**.
 
 ### Key Features
-* **High Accuracy:** Achieved a Micro-Accuracy of **97.67%** during training.
+* **High Accuracy:** Achieved a Micro-Accuracy of **88.67%** during training.
 * **Real-time Prediction:** Fast inference using a pre-trained ML.NET model.
 * **Modern Tech Stack:** Built using **.NET 10.0** and **ML.NET Model Builder**.
 * **Pattern Recognition:** Analyzes complex image features and Logarithmic Loss to ensure reliable classification.
@@ -13,8 +13,8 @@ This is a **C# Console Application** developed for my 5th-semester project at th
 * **Language:** C#
 * **Framework:** .NET 10.0
 * **Machine Learning Library:** ML.NET (TensorFlow integration for deep learning)
-* **Dataset:** 995 images (745 Real, 250 AI-Generated)
-* **Accuracy:** 0.9767 (Micro-Accuracy)
+* **Dataset:** 1200+ images (745 Real, 550 AI-Generated)
+* **Accuracy:** 0.8867 (Micro-Accuracy)
 
 ### How to Use
 1. Clone the repository (excluding large binary files handled by .gitignore).
