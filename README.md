@@ -6,12 +6,12 @@ This is a **C# Console Application** developed for my 5th-semester project at th
 ### Key Features
 * **High Accuracy:** Achieved a Micro-Accuracy of **88.67%** during training.
 * **Real-time Prediction:** Fast inference using a pre-trained ML.NET model.
-* **Modern Tech Stack:** Built using **.NET 10.0** and **ML.NET Model Builder**.
+* **Modern Tech Stack:** Built using **.NET 8.0** and **ML.NET Model Builder**.
 * **Pattern Recognition:** Analyzes complex image features and Logarithmic Loss to ensure reliable classification.
 
 ### Technical Specifications
 * **Language:** C#
-* **Framework:** .NET 10.0
+* **Framework:** .NET 8.0
 * **Machine Learning Library:** ML.NET (TensorFlow integration for deep learning)
 * **Dataset:** 1200+ images (745 Real, 550 AI-Generated)
 * **Accuracy:** 0.8867 (Micro-Accuracy)
